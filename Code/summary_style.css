@@ -1,0 +1,132 @@
+body{
+    background-color: #E1D5DF;
+}
+
+#div1{
+    position: relative;
+}
+#image1{
+    border: 0px solid black;
+    width: 1070px;
+    height: 511px;
+    margin-left: 0px;
+    margin-top: 62px;
+    position: absolute;
+}
+#txt1{
+    padding-top: 25px;
+    border: 0px solid black;
+    width: 650px;
+    height: 100px;
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 20px;
+}
+#txt2{
+    padding-top: 25px;
+    border: 0px solid black;
+    width: 170px;
+    height: 100px;
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 870px;
+}
+#txt3{
+    padding-top: 15px;
+	padding-left: 20px;
+    border: 0px solid black;
+    width: 280px;
+    height: 130px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 20px;
+}
+#txt4{
+    padding-top: 15px;
+    border: 0px solid black;
+    width: 180px;
+    height: 70px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 400px;
+}
+#txt5{
+    padding-top: 10px;
+    border: 0px solid black;
+    width: 100px;
+    height: 20px;
+    position: absolute;
+    margin-top: 420px;
+    margin-left: 20px;
+}
+
+#sub_total{
+    padding-top: 10px;
+    border: 0px solid black;
+    width: 130px;
+    height: 40px;
+    position: absolute;
+    margin-top: 370px;
+    margin-left: 870px;
+    text-align: left;
+}
+#hr1{
+    height: 3px;
+    border: 0px solid black;
+    width: 1030px;
+    margin-top: 180px;
+    position: absolute;
+    margin-left: 20px;
+    border-radius: 5px;
+    background-color: #797979;
+}
+#hr2{
+    height: 3px;
+    border: 0px solid black;
+    width: 1030px;
+    margin-top: 410px;
+    position: absolute;
+    margin-left: 20px;
+    border-radius: 5px;
+    background-color: #797979;
+}
+#bg{
+    border: 0px solid black;
+    height: 190px;
+    width: 650px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 200px;
+    opacity: 0.5;
+    background-color: #BCBCBC;
+}
+#bu1{
+    border: 0px solid black;
+    height: 30px;
+    width: 135px;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 270px;
+    opacity: 0.7;
+    background-color: #D3D4CF;
+}
+#bu2{
+    border: 0px solid black;
+    height: 30px;
+    width: 115px;
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 310px;
+    opacity: 0.7;
+    background-color: #D3D4CF;
+}
+#bu3{
+    border: 0px solid black;
+    height: 30px;
+    width: 115px;
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 350px;
+    opacity: 0.7;
+    background-color: #D3D4CF;
+}

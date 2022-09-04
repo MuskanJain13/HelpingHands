@@ -1,0 +1,124 @@
+body{
+	background-color: #E1D5DF;
+    font: century gothic;
+}
+
+#container{ 			/*This is the outer most division i.e. container which contains all the sub divisions. */
+	position: relative;
+	margin:auto;
+	border: 0px solid black;
+	height: 580px;
+	width: 1236px;
+}
+
+#bg{ 	/*This is the 1st division inside the container which contains 2 divisions for 2 different background colors. */
+	position: absolute;
+	margin:auto;
+	border: 0px solid black;
+	height: 580px;
+	width: 1236px;
+}
+
+#bg1{  					/*This is the 1st background color division inside bg division.*/
+	position: sticky;
+	background-color: #D3D4CF;
+	height: 290px;
+	width: 1236px;
+	border: 0px solid red;
+	opacity: 0.45;
+}
+
+#bg2{ 					/*This is the 2nd background color division inside bg division.*/
+	position: sticky;
+	background-color: #BCBCBC;
+	height: 290px;
+	width: 1236px;
+	border: 0px solid red;
+	opacity: 0.49;
+}
+
+#reg{					 /*This is the division for Registration heading inside the container division.*/
+	margin-left: 580px;
+	margin-top: 50px;
+	position: absolute;
+	font: 20px century gothic;
+}
+
+#t1{					 /*This is the division for table containing labels inside the container division.*/
+	position: absolute;
+	text-align: right;
+	margin: 120px 410px;
+	border: 0px solid black;
+	font: 13px century gothic;
+    height: 325px;
+    
+}
+
+#t2{ 					/*This is the division for table containing input fields inside the container division.*/
+	position: absolute;
+	text-align: left;
+	margin: 116px 670px;
+	border: 0px solid black;
+	font: 13px century gothic;
+}
+
+table, th, td{
+	border: 0px solid black;
+	
+}
+
+.rf{
+	height: 32px;
+}
+
+input{
+	height: 22px;
+	width: 250px;
+    font: 13px century gothic;
+    border: 0px;
+}
+
+#sub_button{ 			/*This is the division for submit button inside the container division.*/
+	margin-top: 40px;
+	margin-left: 230px;
+	position: absolute;
+	height: 100px;
+	border: 0px solid black
+}
+
+button{
+	color: white;
+	background-color: dimgray;
+	height: 30px;
+	width: 80px;
+	border: 0px;
+    opacity: 0.5;
+    font: 13px century gothic; 
+}
+
+#box{
+	margin-left: 55px;
+	margin-top: 120px;
+	position: absolute;
+}
+
+table, th, td{
+    border: 0px solid green;
+}
+button:hover{
+    opacity: 0.7;
+}
+
+#image_cont{
+	border: 0px solid black;
+	margin-left: 10px;
+	margin-top: 20px;
+	width: 30px;
+	height: 30px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

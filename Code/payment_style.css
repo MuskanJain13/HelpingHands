@@ -1,0 +1,58 @@
+body{
+    background-color: E1D5DF;
+    
+}
+#bg{
+    position: relative;
+	background-color: rgba(255,255,255,0.6);
+	border: 0px solid black;
+	height: 280px;
+	width: 500px;
+	margin: 120px 350px ;
+	padding: 20px 40px;
+}
+#wallet{
+    border: 0px solid black;
+    height: 60px;
+    width: 150px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 360px;
+}
+#heading{
+    border: 0px solid black;
+    height: 60px;
+    widows: 200x;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+#content{
+    border: 0px solid black;
+    height: 60px;
+    width: 200px;
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 15px;
+}
+
+#pay{
+	margin-left: 15px;
+	margin-top: 190px;
+	width: 150px;
+	height: 30px;
+	background-color: transparent;
+	border-width: thin;
+	font: 15px century gothic;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+
+#msg{
+	position: absolute;
+	margin-top: 180px;
+	margin-left: 15px;
+	
+}

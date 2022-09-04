@@ -1,0 +1,100 @@
+body{
+	background-color: #E1D5DF;
+	font: Century Gothic;
+}
+
+#container1{
+	position: relative;
+	margin: 5px 120px;
+	height: 750px;
+	width: 1000px;
+	border: 0px solid black
+}
+
+#signup{
+	position: absolute;
+	height: 700px;
+	width: 1000px;
+	background-image: url(loginbg.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 0.5;
+}
+
+#whitebox{
+	position: absolute;
+	background-color: white;
+	margin: 76px 101px;
+	height: 550px;
+	width: 800px;
+	opacity: 0.3;
+	border-radius: 25px;	
+}
+
+#tableform1{
+	position: absolute;
+	height: 500px;
+	width: 800px;
+	margin: 76px 101px;
+	border: 0px solid black;
+}
+
+
+
+input{
+	height: 28px;
+	width: 300px;
+	border: 0px;
+	font: 13px Century Gothic;
+}
+
+td{
+	padding-top: 4px;
+	border: 0px solid black;
+}
+
+button{
+	background-color: #B7B2B6;
+	border: 0px;
+	height: 28px;
+	width: 75px;
+	font: 14px Century Gothic;
+}
+
+button:hover{
+	opacity: 0.7
+}
+
+#e1, #e2{
+	font: 10px Century Gothic;
+}
+
+label, input{
+	font: 13px Century Gothic;
+}
+
+#login{
+	border: 0px solid black;
+	width: 500px;
+	margin-left: 250px
+}
+
+#log{
+	margin-left: 30px
+}
+
+#log:hover{
+	color: gray;
+}
+
+#acc:hover{
+	color: gray;
+}
+
+#image_cont{
+	border: 0px solid black;
+	margin-left: 10px;
+	margin-top: 20px;
+	width: 30px;
+	height: 30px;
+}

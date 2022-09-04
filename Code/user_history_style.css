@@ -1,0 +1,68 @@
+#heading{
+    position: relative;
+    border: 0px solid black;
+    height: 150px;
+    width: 1068px;
+    background-color: white;
+	
+}
+
+#para1{
+    padding-top: 90px;
+    font: 40px century gothic;
+    color: darkblue;
+	border: 0px solid black;
+    text-align: center;
+}
+
+#container{
+    border: 0px solid black;
+	margin-top: 10px;
+	height: 1000px;
+	width: 1069px;
+    position: relative;
+	
+}
+
+#text1{
+    position: absolute;
+    height: 60px;
+    width: 400px;
+    border: 0px solid black;
+    margin-top: 40px;
+    margin-left: 60px;
+}
+
+#para2{
+    font: 20px century gothic;
+    color: black;
+}
+
+#data{
+    border: 0px solid black;
+    height: 310px;
+    width: 850px;
+    margin: 140px 110px;
+    position: absolute;
+}
+
+td, th{
+	border: 0px solid black;
+	height: 90px;
+	text-align: center;
+	border-bottom: 2px solid gray;
+	border-bottom-width: thin;
+}
+
+td{
+	font: 16px century gothic;
+	width: 200px;
+}
+
+thead{
+	text-align: center;
+}
+
+tr:nth-child(odd) {background-color: rgba(255,255,255,0.9);}
+
+tr:nth-child(even) {background-color: rgba(128,128,128,0.2);}

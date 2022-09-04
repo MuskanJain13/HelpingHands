@@ -1,0 +1,106 @@
+#bg{
+    height: 130px;
+    border: 0px solid black;
+    text-align: left;
+    margin-left: 180px;
+
+}
+
+#container{
+    position: relative;
+    height: 635px;
+    width: 1069px;
+	border: 0px solid black;
+}
+
+#ngo-grid{
+    height: 200px;
+    width: 930px;
+    border: 0px solid black;
+    margin-top: 10px;
+    margin-left: 70px;
+
+}
+.ngo-img{
+    position: absolute;
+    height: 200px;
+    width: 230px;
+    border: 1px solid black;
+}
+.ngo-info{
+    position: relative;
+    height: 200px;
+    width: 700px;
+    margin-left: 230px;
+    border: 1px solid black;
+}
+.ngo-name{
+    position: absolute;
+    height: 35px;
+    width: 685px;
+    margin-top: 5px;
+    margin-left: 5px;
+    font: 23px century gothic;
+    text-align: center;
+    border-bottom: 1px solid blue;
+	color: white;
+	background-color: rgba(0,0,0,0.7);
+	padding-top: 3px;
+}
+.ngo-motive{
+    position: absolute;
+    height: 90px;
+    width: 685px;
+    border-bottom: 1px solid blue;
+    margin-top: 45px;
+    margin-left: 5px;
+	background-color: rgba(255,255,255, 0.8);
+	padding: 4px 6px;
+	text-align: justify;
+	font: 13px century gothic;
+}
+.ngo-update{
+    position: absolute;
+    height: 50px;
+    width: 340px;
+    border-bottom: 1px solid blue;
+    border-right: 1px solid blue;
+    margin-top: 140px;
+    margin-left: 5px;
+	background-color: rgba(255,255,255, 0.8);
+	padding: 4px 6px;
+	text-align: justify;
+	font: 13px century gothic;
+}
+
+.ngo-member{
+    position: absolute;
+    height: 50px;
+    width: 340px;
+    border-bottom: 1px solid blue;
+    border-left: 0px solid blue;
+    margin-top: 140px;
+    margin-left: 350px;
+	background-color: rgba(255,255,255, 0.8);
+	padding: 4px 6px;
+	text-align: justify;
+	font: 13px century gothic;
+}
+p{
+    font: 30px century gothic;
+    color: darkblue;
+    padding-top: 85px;
+    margin-left: 400px;
+}
+#button{
+    text-decoration: none;
+    position: absolute;
+    margin-top:0px;
+    font: 30px century gothic;
+    padding-top: 5px;
+    margin-left: 5px;
+}
+
+#button:hover{
+	color: white;
+}

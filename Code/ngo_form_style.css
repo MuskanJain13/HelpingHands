@@ -1,0 +1,219 @@
+body{
+	background-color: #E1D5DF;
+	font: Century Gothic;
+}
+
+#container{ 			/*This is the outer most division i.e. container which contains all the sub divisions. */
+	position: relative;
+	margin:auto;
+	border: 0px solid black;
+	height: 772px;
+	width: 1225px;
+}
+
+#bg{ 	/*This is the 1st division inside the container which contains 2 divisions for 2 different background colors. */
+	position: absolute;
+	margin:auto;
+	border: 0px solid black;
+	height: 772px;
+	width: 1225px;
+}
+
+#bg1{  					/*This is the 1st background color division inside bg division.*/
+	position: sticky;
+	background-color: #D3D4CF;
+	height: 386px;
+	width: 1225px;
+	border: 0px solid red;
+	opacity: 0.45;
+}
+
+#bg2{ 					/*This is the 2nd background color division inside bg division.*/
+	position: sticky;
+	background-color: #BCBCBC;
+	height: 386px;
+	width: 1225px;
+	border: 0px solid red;
+	opacity: 0.49;
+}
+
+#reg{					 /*This is the division for Registration heading inside the container division.*/
+	margin-left: 550px;
+	margin-top: 50px;
+	position: absolute;
+	font: 20px Century Gothic;
+	border: 0px solid black;
+	color: darkblue;
+}
+
+#t1{					 /*This is the division for table containing labels inside the container division.*/
+	position: absolute;
+	text-align: right;
+	margin: 120px 370px;
+	border: 0px solid black;
+	font: 13px Century Gothic;
+}
+
+#t2{ 					/*This is the division for table containing input fields inside the container division.*/
+	position: absolute;
+	text-align: right;
+	margin: 117px 640px;
+	border: 0px solid black;
+	font: 13px Century Gothic;
+}
+
+table, th, td{
+	border: 0px solid black;
+}
+
+.rf{
+	height: 32px;
+}
+
+
+
+#sub_button{ 			/*This is the division for submit button inside the container division.*/
+	margin-top: 67px;
+	margin-left: 280px;
+	position: absolute;
+	height: 100px;
+	border: 0px solid black
+}
+
+button{
+	color: white;
+	background-color: dimgrey;
+	height: 30px;
+	width: 80px;
+	border: 0px;
+	opacity: 0.5;
+	font: 13px Century Gothic;
+}
+
+button:hover{
+	opacity: 0.7;
+}
+
+#ngo{
+	width:120px;
+	height:80px;
+	-webkit-transform:rotate(354deg);
+	-moz-transform: rotate(354deg);
+	-ms-transform: rotate(354deg);
+  	-o-transform: rotate(354deg);
+  transform: rotate(354deg);
+}
+
+#box{
+	margin-left: 65px;
+	margin-top: 120px;
+	position: absolute;
+}
+
+
+#image_cont{
+	border: 0px solid black;
+	margin-left: 10px;
+	margin-top: 20px;
+	width: 30px;
+	height: 30px;
+}
+
+input, textarea {
+	background-color: transparent;
+    width: 350px;
+	color: black;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid #eeeeee 1px;
+    padding: 3px 10px;
+	}
+
+textarea{
+	height: 70px;
+}
+
+
+
+#l_motive{
+	height: 100px;
+}
+
+#l_m{
+	height: 100px;
+	margin-top: 50px;
+	padding-bottom: 100px;
+}
+#row1{
+    border: 0px solid black;
+    height: 38px;
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 7px;
+}
+#row2{
+    border: 0px solid black;
+    height: 38px;
+    width: 200px;
+    margin-left: 20px;
+}
+#row3{
+    border: 0px solid black;
+    height: 38px;
+    width: 200px;
+    margin-left: 20px;
+}
+#row4{
+    border: 0px solid black;
+    height: 30px;
+    width: 200px;
+    margin-left: 20px;
+}
+#row5{
+    border: 0px solid black;
+    height: 82px;
+    width: 200px;
+    margin-left: 20px;
+}
+#row6{
+    border: 0px solid black;
+    height: 82px;
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+#row7{
+    border: 0px solid black;
+    height: 82px;
+    width: 220px;
+    margin-left: 0px;
+}
+#row8{
+    border:0px solid black;
+    height: 38px;
+    width: 200px;
+    margin-left: 20px;
+}
+#row9{
+    border: 0px solid black;
+    height: 38px;
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#row10{
+    border: 0px solid black;
+    height: 38px;
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+#row11{
+    border: 0px solid black;
+    height: 38px;
+    width: 200px;
+    margin-left: 20px;   
+}	

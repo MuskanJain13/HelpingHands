@@ -1,0 +1,50 @@
+table_pro{
+	border: 0px solid black;
+}
+
+#a_id{
+	width: 35px;
+	text-align: center;
+}
+#a_name{
+	width: 140px;
+	text-align: center;
+}
+#a_qty{
+	width: 110px;
+	text-align: center;
+}
+#a_batch{
+	width: 100px;
+	text-align: center;
+}
+#a_exp{
+	width: 120px;
+	text-align: center;
+}
+#a_manf{
+	width: 120px;
+	text-align: center;
+}
+#a_price{
+	width: 80px;
+	text-align: center;
+}
+#edit{
+	width: 50px;
+	text-align: center;
+}
+#remove{
+	width: 50px;
+	text-align: center;
+}
+#a_desc{
+	text-align: justify;
+	padding: 7px;
+	text-align: center;
+}
+
+
+.pro:nth-child(even) {background-color: rgba(255, 255, 255,0.9);}
+
+.pro:nth-child(odd) {background-color: rgba(0, 0, 139, 0.3); color: white;}

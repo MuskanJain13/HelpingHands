@@ -1,0 +1,71 @@
+body{
+	font: 13px century gothic;
+}
+
+#hello{
+	width: 1069px;
+	height: 573px;
+	font: 150px century gothic;
+	text-align: center;
+	margin-right: auto;
+	border: 0px solid black;
+	padding-top: 200px;
+	position: fixed;
+	color: rgba(0,0,0, 0.8);
+}
+
+#options{
+	width: 1069px;
+	background-color: #E1D5DF;
+	height: 512px;
+	margin-right: auto;
+	border: 0px solid black;
+	position: absolute;
+	margin-top: 573px;
+}
+
+#pro{
+	background-color: rgba(255,255,255);
+	color: darkblue;
+	height: 200px;
+	width: 300px;
+	font: 45px century gothic;
+	border: none;
+	position: absolute;
+	margin-top: 150px;
+	margin-left: 170px;
+/*	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+
+#staff{
+	background-color: rgba(255,255,255);
+	color: darkblue;
+	height: 200px;
+	width: 300px;
+	font: 45px century gothic;
+	border: none;
+	position: absolute;
+	margin-top: 150px;
+	margin-left: 600px;
+	/*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+
+#staff:hover{
+	color: black;
+	opacity: 0.7;
+}
+
+#pro:hover{
+	color: black;
+	opacity: 0.7;
+}
+
+.pulse:hover, 
+.pulse:focus {
+  animation: pulse 1s;
+  box-shadow: 0 0 0 2em rgba(#fff,0);
+}
+
+@keyframes pulse {
+  0% { box-shadow: 0 0 0 0 var(--hover); }
+}

@@ -1,0 +1,52 @@
+body{
+	 background-color: #E1D5DF;	 
+ }
+
+ #bg{
+	  height: 140px; border: 0px solid black; width: 1069px; background-color: royalblue;  padding: 12px;
+ }
+
+ #title {
+	 font-size: 42px;
+	 margin-top: 60px;
+	 color: #fff;
+	 
+	 text-align: center;
+	 -webkit-animation: glow 1s ease-in-out infinite alternate;
+	 -moz-animation: glow 1s ease-in-out infinite alternate;
+	 animation: glow 1s ease-in-out infinite alternate;
+ }
+
+ @-webkit-keyframes glow {
+	 from {
+	 text-shadow: 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #bcbcbc, 0 0 25px #bcbcbc, 0 0 30px #bcbcbc, 0 0 35px  #e1d5df, 0 0 40px #e1d5df;
+	 }
+
+   to {
+	 text-shadow: 0 0 10px #fff, 0 0 15px #ff4da6, 0 0 20px #ff4da6, 0 0 25px #ff4da6, 0 0 30px #ff4da6, 0 0 35px  #ff4da6, 0 0 40px #ff4da6;
+   }
+ }
+
+ .product{
+	 margin-left: 100px; width: 650px; height: 300px; border: 0px solid black; position: relative; background-color: rgba(255,255,255, 0.9); border-radius: 25px;
+ }
+
+ #bu{
+	 margin-left: 100px; margin-top: 40px; width: 650px; height: 300px; border: 1px solid black; position: absolute;
+ }
+
+ .image{
+	position: absolute; float: left; margin-left: 50px; margin-top: 50px;
+ }
+
+ .name{
+	position: absolute; margin-left: 420px; margin-top: 30px;
+ }
+
+ .desc{
+	position: absolute; margin-left: 290px; margin-top: 60px;
+ }
+
+ .addtocart{
+	 margin-left: 10px; margin-top: 0px; width: 120px; height: 40px; border: 1px solid black; background-color: darkgray; border-radius: 15px; color: white; font: 16px Century Gothic; cursor: pointer; position: absolute;
+ }

@@ -1,0 +1,139 @@
+body{
+	font: 14px century gothic;
+}
+
+#staff{
+	width: 1069px;
+	height: 240px;
+	font: 80px candara;
+	text-align: center;
+	margin-right: auto;
+	border: 0px solid black;
+	padding-top: 100px;
+	color: rgba(0,0,0, 0.7);
+}
+
+#product{
+	font: 20px century gothic;	
+}
+
+#add_div{
+	width: 1069px;
+	background-color: #e1d5df;
+	height: 50px;
+	border: 0px solid darkblue;
+	text-align: center;
+	padding-top: 13px;
+	font: 20px century gothic;
+	color: darkblue;
+	cursor: pointer;
+}
+
+#add_div:hover{
+	opacity: 0.8;
+	font-size: 24px;
+	color: black;
+}
+
+#add_div_content{
+	
+	width: 1069px;
+	background-color: #e1d5df;
+	height: 390px;
+	border: 1px solid darkblue;
+	border-top: 3px white;
+	border-top-style: dashed;
+	padding-top: 15px;
+	padding-left: 40px;
+	display: none;
+	font: 14px century gothic;
+	color: darkblue;
+}
+
+#data{
+	margin-top: 40px;
+	margin-left: 20px;
+	width: 1025px;
+	height: 300px;
+	border: 0px solid black;
+}
+
+#form{
+    border: 0px solid black;
+    position: absolute;
+ 	margin-left: 25px;
+	margin-top: 40px;
+	height: 300px;
+}
+
+table{
+	border: 0px solid black;
+}
+
+#ok{
+	margin-left: 0px;
+	margin-top: 260px;
+	position: absolute;
+	color: darkblue;
+	background-color: rgba(255,255,255,0.9);
+	border: none;
+	padding: 8px 20px;
+	font: 13px century gothic;
+	left: 800px;
+}
+
+#ok:hover{
+    opacity: 0.7;
+}
+
+.ok{
+	margin-left: 0px;
+	margin-top: 260px;
+	position: absolute;
+	color: darkblue;
+	background-color: rgba(255,255,255,0.9);
+	border: none;
+	padding: 8px 20px;
+	font: 13px century gothic;
+	left: 800px;
+}
+
+.ok:hover{
+    opacity: 0.7;
+}
+
+td{
+    height: 80px;
+    width: 250px;
+	border: 0px solid black;
+	text-align: center;
+}
+
+input, textarea{
+    height: 40px;
+    width: 260px;
+	background-color: transparent;
+	color: black;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid #bcbcbcbc 2px;
+	font: 14px century gothic;
+    padding-bottom: 10px;
+	margin-bottom: 13px;
+}
+
+
+#last{
+	margin-top: 700px;
+	border: 1px solid black;
+	position: absolute;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
