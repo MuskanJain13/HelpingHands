@@ -34,13 +34,6 @@ fulfill their basic needs with necessary items.
 • Platform for all the enthusiastic volunteers of the society who want to serve for humanity <br /><br />
 • Platform for all the NGOs and such groups of people who want to join the war against COVID 
 with us and make the world better! <br /><br />
-
-<br />
-
-### Here is a short video about the project and its demo:
-
-
-
 <br />
 
 ### Some snippets from the project:
@@ -54,12 +47,12 @@ with us and make the world better! <br /><br />
 
 <br />
 
+![cart](https://user-images.githubusercontent.com/56120520/188315583-c4a1efe2-b6c9-4fe0-afe2-80c90c026672.PNG)
+
+<br />
+
 ![order summary](https://user-images.githubusercontent.com/56120520/188315569-2afeb003-6986-47bb-b227-bd0f91450638.PNG)
 
 <br />
 
 ![products_admin](https://user-images.githubusercontent.com/56120520/188315575-ec73e2db-2a2e-46b1-90f2-05e447010b5d.PNG)
-
-<br />
-
-![cart](https://user-images.githubusercontent.com/56120520/188315583-c4a1efe2-b6c9-4fe0-afe2-80c90c026672.PNG)
