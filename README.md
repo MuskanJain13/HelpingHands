@@ -1,6 +1,7 @@
 # HelpingHands
 This project "HelpingHands" is a web design project. Basically it is a web application made through the tech stacks - HTML, CSS, JavaScript. This was my first web project, and it's objective was to learn the flow of a website and learn web development languages. This project was a group project, I along with my batchmate had developed this web application.
 
+<br />
 
 ## Problem Statement
 
@@ -10,6 +11,7 @@ Ministry of Statistics. Many businesses running at tertiary sector are also affe
 and not at a very good position. And even many of the citizens of India are not able to fulfill their 
 basic needs for survival because of not getting enough goods and unemployment.
 
+<br />
 
 ## Aim
 
@@ -17,27 +19,32 @@ To make a difference in economic growth and provide the necessary items across v
 designing a digital solution for the problems mentioned above so that each and every citizen can 
 fulfill their basic needs with necessary items.
 
+<br />
 
 ## FLow of the website
 
 ![flow](https://user-images.githubusercontent.com/56120520/188315616-08f7bd0c-ba27-4d27-92cc-05c2690afedd.PNG)
 
-
+<br />
 
 ## Implemented Concepts
 
-• Platform for buying and selling all necessary household products
-• Platform for donating goods to us so that we can distribute it to the society or donating to NGOs.
-• Platform for all the enthusiastic volunteers of the society who want to serve for humanity.
+• Platform for buying and selling all necessary household products <br /><br />
+• Platform for donating goods to us so that we can distribute it to the society or donating to NGOs. <br /><br />
+• Platform for all the enthusiastic volunteers of the society who want to serve for humanity <br /><br />
 • Platform for all the NGOs and such groups of people who want to join the war against COVID 
-with us and make the world better!
+with us and make the world better! <br /><br />
 
+<br />
 
 ### Here is a short video about the project and its demo:
 
 
 
+<br />
+
 ### Some snippets from the project:
+<br />
 
 ![homepage](https://user-images.githubusercontent.com/56120520/188315601-534e2918-d7ec-42e7-8972-c4923475276a.PNG)
 
