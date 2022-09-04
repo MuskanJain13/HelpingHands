@@ -48,11 +48,18 @@ with us and make the world better! <br /><br />
 
 ![homepage](https://user-images.githubusercontent.com/56120520/188315601-534e2918-d7ec-42e7-8972-c4923475276a.PNG)
 
+<br />
+
 ![household](https://user-images.githubusercontent.com/56120520/188315563-f4513476-c587-4636-86cc-f08fac038c88.PNG)
+
+<br />
 
 ![order summary](https://user-images.githubusercontent.com/56120520/188315569-2afeb003-6986-47bb-b227-bd0f91450638.PNG)
 
+<br />
+
 ![products_admin](https://user-images.githubusercontent.com/56120520/188315575-ec73e2db-2a2e-46b1-90f2-05e447010b5d.PNG)
 
-![cart](https://user-images.githubusercontent.com/56120520/188315583-c4a1efe2-b6c9-4fe0-afe2-80c90c026672.PNG)
+<br />
 
+![cart](https://user-images.githubusercontent.com/56120520/188315583-c4a1efe2-b6c9-4fe0-afe2-80c90c026672.PNG)
